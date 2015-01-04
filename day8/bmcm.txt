@@ -1,0 +1,2 @@
+Search condition AND
+cleantTextToSearch

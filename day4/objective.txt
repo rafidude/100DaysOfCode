@@ -1,0 +1,5 @@
+Objective:
+	Learn Go's channels and interfaces concepts
+
+Source:
+	https://gobyexample.com/

@@ -1,0 +1,8 @@
+Objective:
+	1) Euler code challenges
+	2) Poem server example from O'Reilly's course:
+		Introduction to Go Programming
+
+Source:
+	1) https://projecteuler.net/
+	2) http://player.oreilly.com/videos/9781491913871

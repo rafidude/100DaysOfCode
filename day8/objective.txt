@@ -1,0 +1,6 @@
+Objective:
+	Enhance BMCM Archives Search project
+
+Source:
+	BMCM
+	https://bmcmsearch.herokuapp.com/

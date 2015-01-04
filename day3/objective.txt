@@ -1,0 +1,5 @@
+Objective:
+	HTTP Response Snippets for Go
+
+Source:
+	http://www.alexedwards.net/blog/golang-response-snippets

@@ -41,3 +41,9 @@ func main() {
 		fmt.Println(entry.Title)
 	}
 }
+
+// url := 'http://query.yahooapis.com/v1/public/yql';
+// startDate := '2012-01-01';
+// endDate := '2012-01-08';
+// data := url.QueryEscape('select * from yahoo.finance.historicaldata where symbol in ("YHOO","AAPL","GOOG","MSFT") and startDate = "' + startDate + '" and endDate = "' + endDate + '"');
+// $.getJSON(url, 'q=' + data + "&env=http%3A%2F%2Fdatatables.org%2Falltables.env&format=json", callback);

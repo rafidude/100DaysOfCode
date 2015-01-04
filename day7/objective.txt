@@ -1,0 +1,6 @@
+Objective:
+	Learn Statistics from scratch from the excellent Udacity course:
+		Intro to Descriptive Statistics
+
+Source:
+	https://www.udacity.com/course/progress#!/c-ud827

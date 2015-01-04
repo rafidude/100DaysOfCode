@@ -1,0 +1,6 @@
+Objective:
+	To find life expectancy given actuarial data
+
+Source:
+	Actuarial Life Table 2014
+	http://www.ssa.gov/oact/STATS/table4c6.html
