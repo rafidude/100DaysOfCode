@@ -1,0 +1,8 @@
+Objective:
+	Miscellaneous utilities and examples from the book:
+		An introduction to programming in Go
+	A few programs from github mkaz working with Go
+
+Source:
+	http://www.golang-book.com/
+	https://github.com/mkaz/working-with-go

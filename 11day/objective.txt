@@ -1,0 +1,7 @@
+Objective:
+	Foundational simple mathematics
+
+Source:
+	Precalculus Mathematics in a Nutshell
+	George F Simmons
+	Geometry, Algebra, Trigonometry

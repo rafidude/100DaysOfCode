@@ -1,6 +1,0 @@
-Objective:
-	Miscellaneous utilities and examples from the book:
-		An introduction to programming in Go
-
-Source:
-	http://www.golang-book.com/

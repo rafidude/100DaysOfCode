@@ -1,0 +1,4 @@
+Introduction to Data
+Intro to Linear Regression
+Introduction to Multiple Regression
+Foundations for Inference

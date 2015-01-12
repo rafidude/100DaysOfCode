@@ -1,0 +1,5 @@
+Objective:
+	OpenIntro Statistics Videos
+
+Source:
+	https://www.youtube.com/user/OpenIntroOrg/playlists
