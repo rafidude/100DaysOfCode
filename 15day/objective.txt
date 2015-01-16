@@ -1,0 +1,7 @@
+Objective:
+  Complete the book Precalculus Mathematics in a Nutshell
+  Complete the book Data Manipulation with R pdf
+
+Source:
+  Precalculus Mathematics in a Nutshell
+  Data Manipulation with R Packt Publishing

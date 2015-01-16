@@ -1,7 +1,7 @@
 Objective:
   Review completed Data Camp tutorials
-	Edx Course Foundations of Data Analysis
+	Went through Data Manipulation with R pdf/book
 
 Source:
   https://www.datacamp.com/courses/introduction-to-r
-  https://courses.edx.org/courses/UTAustinX/UT.7.01x/3T2014/info
+  Data Manipulation with R Packt Publishing
