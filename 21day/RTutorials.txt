@@ -1,0 +1,8 @@
+1. Input
+2. Basic Data Types
+3. Basic Operations and Numerical Descriptions
+4. Basic Probability Distributions
+5. Basic Plots
+6. Intermediate Plotting
+7. Indexing Into Vectors
+8. Linear Least Squares Regression

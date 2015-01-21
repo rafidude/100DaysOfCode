@@ -1,0 +1,2 @@
+Complete the R tutorials at cyclismo.org
+http://www.cyclismo.org/tutorial/R/

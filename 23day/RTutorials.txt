@@ -1,0 +1,10 @@
+8. Linear Least Squares Regression
+9. Calculating Confidence Intervals
+10. Calculating p Values
+11. Calculating The Power Of A Test
+12. Two Way Tables
+13. Data Management
+14. Time Data Types
+15. Introduction to Programming
+16. Object Oriented Programming
+

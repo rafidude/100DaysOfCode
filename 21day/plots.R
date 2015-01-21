@@ -1,0 +1,55 @@
+w1 = read.csv("/Users/agilesense/gocode/src/github.com/rafidude/100DaysOfCode/21day/w1.dat")
+w1$vals
+stripchart(w1$vals)
+stripchart(w1$vals,method="stack")
+stripchart(w1$vals,method="jitter")
+stripchart(w1$vals,vertical=TRUE)
+stripchart(w1$vals,vertical=TRUE,method="jitter")
+hist(w1$vals)
+hist(w1$vals,breaks=12)
+hist(w1$vals,breaks=12,xlim=c(0.9,1.3))
+boxplot(w1$vals)
+fivenum(w1$vals)
+boxplot(w1$vals, horizontal=T)
+boxplot(w1$vals, add=T)
+stripchart(w1$vals,vertical=TRUE,method="jitter", add=T)
+
+# advanced plots
+x <- rnorm(10,sd=5,mean=20)
+y <- 2.5*x - 1.0 + rnorm(10,sd=9,mean=0)
+plot(x, y)
+cor(x,y)
+plot(lm(y ~ x))
+plot(x,y,xlab="Independent",ylab="Dependent",main="Random Stuff")
+x1 <- runif(8,15,25)
+y1 <- 2.5*x1 - 1.0 + runif(8,-6,6)
+points(x1,y1,col=2)
+
+x2 <- runif(8,15,25)
+y2 <- 2.5*x1 - 1.0 + runif(8,-6,6)
+points(x2,y2,,col=3,pch=2)
+
+plot(x,y,xlab="Independent",ylab="Dependent",main="Random Stuff")
+points(x1,y1,col=2,pch=3)
+points(x2,y2,col=4,pch=5)
+legend(12,70,c("Original","one","two"),col=c(1,2,4),pch=c(1,3,5))
+
+plot(x,y,xlab="Independent",ylab="Dependent",main="Random Stuff",xlim=c(0,30),ylim=c(0,100))
+points(x1,y1,col=2,pch=3)
+points(x2,y2,col=4,pch=5)
+legend(2,80,c("Original","one","two"),col=c(1,2,4),pch=c(1,3,5))
+
+plot(x,y,xlab="Independent",ylab="Dependent",main="Random Stuff")
+xHigh <- x
+yHigh <- y + abs(rnorm(10,sd=3.5))
+xLow <- x
+yLow <- y - abs(rnorm(10,sd=3.1))
+arrows(xHigh,yHigh,xLow,yLow,col=2,angle=90,length=0.1,code=3)
+
+uData <- rnorm(20)
+vData <- rnorm(20,mean=5)
+wData <- uData + 2*vData + rnorm(20,sd=0.5)
+xData <- -2*uData+rnorm(20,sd=0.1)
+yData <- 3*vData+rnorm(20,sd=2.5)
+d <- data.frame(u=uData,v=vData,w=wData,x=xData,y=yData)
+pairs(d)
