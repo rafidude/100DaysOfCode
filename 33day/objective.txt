@@ -1,0 +1,2 @@
+Practical Data Science Cookbook
+Data Manipulation with R
