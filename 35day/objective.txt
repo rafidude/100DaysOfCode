@@ -1,0 +1,2 @@
+Split Apply Combine Hadley whitepaper
+Practical Data Science with R
