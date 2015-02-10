@@ -1,0 +1,4 @@
+Miscellaneous
+  Watched React.js screencasts
+  Upgraded iMac to Yosemite
+  researched Koajs
