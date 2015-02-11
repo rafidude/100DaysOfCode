@@ -1,0 +1,3 @@
+https://www.datacamp.com/courses/introduction-to-computational-finance-and-financial-econometrics/
+Introduction to portfolio theory
+Computing efficient portfolios using
