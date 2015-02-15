@@ -1,0 +1,6 @@
+Mathematical Methods for Quantitative Finance
+https://class.coursera.org/mathematicalmethods-004/lecture
+Calculus
+
+Datacamp Computational Finance
+https://www.datacamp.com/courses/introduction-to-computational-finance-and-financial-econometrics/lab-8-computing-efficient-portfolios-using-matrix-algebra
