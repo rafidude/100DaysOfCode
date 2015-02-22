@@ -1,0 +1,33 @@
+What problem am I solving?
+Define the goal
+
+What information do I need?
+Collect and manage data
+
+Build the model
+Find patterns in the data that lead to solutions.
+
+Does the model solve my problem?
+Evaluate and critique model
+
+Present results and document
+Establish that I can solve the problem, and how.
+
+Deploy the model to solve the problem in the real world.
+Deploy model
+
+What data is available to me?
+Will it help me solve the problem? 
+Is it enough?
+Is the data quality good enough?
+
+Make sure you have a clear, verifiable, quantifiable goal.
+Make sure you’ve set realistic expectations for all stakeholders.
+
+Use read_table() to load small, structured datasets into R.
+
+Take the time to examine your data before diving into the modeling.
+The summary command helps you spot issues with data range, units, data type,
+and missing or invalid values.
+Visualization additionally gives you a sense of data distribution and relation- ships among variables.
+Visualization is an iterative process and helps answer questions about the data. Time spent here is time not wasted during the modeling process.
