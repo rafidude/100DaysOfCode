@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv='Content-type' content='text/html; charset=utf-8'>
+    <title>Basic Example with JSX</title>
+  </head>
+  <body>
+    <h1>Basic Example with JSX</h1>
+    <script src="build/react.js"></script>
+    <script src="build/JSXTransformer.js"></script>
+    <script type="text/jsx">
+      var ExampleComponent = React.createClass({
+        render: function () {
+          return (
+            <div className="navigation">
+              Hello World!
+            </div>
+            );
+        }
+      });
+ 
+      React.render(<ExampleComponent />, document.body);
+    </script>
+  </body>
+</html>

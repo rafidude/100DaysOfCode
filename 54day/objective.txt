@@ -1,0 +1,5 @@
+Docker
+Vagrant
+  Created a simple Ubuntu Docker instance with nginx serving custom static page
+  Upgraded VirtualBox and installed Vagrant to prepare for CoreOS install
+
