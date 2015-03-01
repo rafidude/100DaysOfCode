@@ -1,0 +1,5 @@
+Machine Learning Udacity
+https://www.udacity.com/course/ud262
+
+Neural Networks
+Instance Based Learning
