@@ -1,0 +1,5 @@
+Azure Machine Learning
+R Scripts
+
+Udacity Machine Learning
+  Computational Learning Theory

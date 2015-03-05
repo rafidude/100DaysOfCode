@@ -1,0 +1,4 @@
+Machine Learning
+   https://www.udacity.com/course/ud262
+   Ensemble Learning: Boosting
+   Kernel Methods & SVMs
