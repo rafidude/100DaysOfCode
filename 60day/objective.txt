@@ -1,0 +1,4 @@
+  Wrote an R Package from scratch & published it to Github
+  Completed The elements of Data Analytic Style book
+  On Azure ML platform used sample data to exercise various ML algos
+

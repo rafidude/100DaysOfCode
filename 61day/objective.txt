@@ -1,0 +1,5 @@
+Machine Learning
+https://www.udacity.com/course/ud262
+
+Bayesian Learning
+Bayesian Inference

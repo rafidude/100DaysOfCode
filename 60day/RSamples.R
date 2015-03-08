@@ -1,0 +1,13 @@
+library("devtools")
+# devtools::install_github("klutometis/roxygen")
+library(roxygen2)
+setwd("/Users/agilesense/gocode/src/github.com/rafidude/100DaysOfCode/60day")
+create("RSamples")
+setwd("./RSamples")
+document()
+setwd("..")
+install("RSamples")
+?brocolors
+install_github('rafidude/RSamples')
+brocolors()
+plot_crayons()

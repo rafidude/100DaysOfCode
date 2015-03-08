@@ -1,0 +1,9 @@
+Package: RSamples
+Title: What the Package Does (one line, title case)
+Version: 0.0.1
+Description: Colors that Karl Broman uses in figures
+Depends: R (>= 3.1.2)
+License: MIT
+Author: Rafi Dudekula <rafi.dudekula@gmail.com>
+Maintainer: Rafi Dudekula <rafi.dudekula@gmail.com>
+LazyData: true
