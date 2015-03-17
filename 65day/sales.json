@@ -1,0 +1,12 @@
+[
+      {"month":10, "sales": 70},
+      {"month":20, "sales": 5},
+      {"month":30, "sales": 30},
+      {"month":40, "sales": 80},
+      {"month":50, "sales": 60},
+      {"month":60, "sales": 20},
+      {"month":70, "sales": 10},
+      {"month":80, "sales": 0},
+      {"month":90, "sales": 8},
+      {"month":100, "sales": 10}
+]

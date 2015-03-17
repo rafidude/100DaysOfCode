@@ -1,0 +1,5 @@
+Machine Learning
+https://www.udacity.com/course/ud262
+
+UL1 Randomized Optimization
+UL2 Clustering
