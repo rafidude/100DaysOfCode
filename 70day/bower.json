@@ -1,0 +1,25 @@
+{
+  "name": "reactd3",
+  "version": "1.0.0",
+  "homepage": "https://github.com/rafidude/100DaysOfCode",
+  "authors": [
+    "rafidude <rafi@agilesense.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.5",
+    "react": "~0.13.1",
+    "bootstrap": "~3.3.4",
+    "lodash": "~3.6.0"
+  }
+}
